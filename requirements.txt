@@ -1,0 +1,7 @@
+sounddevice
+scipy
+requests
+python-dotenv
+ctransformers
+llama-cpp-python
+openai 

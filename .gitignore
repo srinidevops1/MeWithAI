@@ -1,0 +1,4 @@
+.env
+MyResta_Venv/
+Mistral_7b/*
+!Mistral_7b/static_query_handler.py 
